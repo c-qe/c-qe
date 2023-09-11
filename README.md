@@ -28,7 +28,6 @@ Hello, I'm c-qe, a dedicated Data Analyst with a relentless curiosity for extrac
 ### Summary
 
 I excel in:
-
 - Transforming messy data into clean, structured datasets
 - Crafting compelling data visualizations and dashboards
 - Conducting statistical analysis and hypothesis testing
@@ -37,8 +36,8 @@ I excel in:
 
 ### Certifications
 
-- IBM Data Analyst Professional Certificate
-- Google Data Analytics Professional Certificate
+- IBM Data Analyst Professional Graduate
+- Google Advanced Data Analytics Professional Certificate
 
 
 Feel free to reach out if you'd like to collaborate or discuss data-related projects. Let's connect and unlock the power of data together!
