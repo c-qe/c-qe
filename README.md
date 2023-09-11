@@ -15,14 +15,15 @@ Hello, I'm c-qe, a dedicated Data Analyst with a relentless curiosity for extrac
 
 ### Skills
 
-- **Programming Languages**: Python, SQL, R
-- **Data Manipulation**: Pandas, NumPy, SQL
-- **Data Visualization**: Matplotlib, Seaborn, Tableau
-- **Statistical Analysis**: Hypothesis Testing, Regression, Time Series
-- **Machine Learning**: Scikit-Learn, XGBoost
-- **Database Management**: MySQL, PostgreSQL
-- **Data Cleaning**: Data Cleaning, Preprocessing
-- **Version Control**: Git, GitHub
+- **Programming Languages:** Python, SQL, R, HTML, CSS, JS, C++
+- **Tools:** Microsoft Excel, Jupyter Notebook
+- **Data Manipulation:** Pandas, NumPy, SQL
+- **Data Visualization:** Seaborn, Matplotlib, ggplot2, Tableau, PowerBI
+- **Statistical Analysis:** Hypothesis Testing, Regression, Time Series
+- **Machine Learning:** Scikit-Learn, XGBoost
+- **Database Management:** MySQL, Sqlite, PostgreSQL
+- **Data Cleaning:** Data Cleaning, Preprocessing
+- **Version Control:** Git, GitHub
 
 ### Summary
 
@@ -33,6 +34,11 @@ I excel in:
 - Conducting statistical analysis and hypothesis testing
 - Building predictive models for actionable insights
 - Collaborating effectively with cross-functional teams
+
+### Certifications
+
+- IBM Data Analyst Professional Certificate
+- Google Data Analytics Professional Certificate
 
 
 Feel free to reach out if you'd like to collaborate or discuss data-related projects. Let's connect and unlock the power of data together!
