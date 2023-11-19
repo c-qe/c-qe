@@ -11,31 +11,18 @@
   </div>
 </body>
 
-Hello, I'm c-qe, a dedicated Data Analyst with a relentless curiosity for extracting actionable insights from complex datasets. My mission is to leverage data to inform strategic decisions and drive business success.
+👋 Hello, I'm c-qe, a passionate Data Analyst with a keen interest in transforming complex datasets into actionable insights. I excel in leveraging Python, SQL, and R to clean and structure data, craft compelling visualizations, conduct statistical analysis, and build predictive models. My aim is to harness the power of data to inform strategic decisions and drive business success.
 
 ### Skills
-
-- **Programming Languages:** Python, SQL, R, HTML, CSS, JS, C++
-- **Tools:** Microsoft Excel, Jupyter Notebook
-- **Data Manipulation:** Pandas, NumPy, SQL
-- **Data Visualization:** Seaborn, Matplotlib, ggplot2, Tableau, PowerBI
+- **Data Manipulation:** Python (Pandas, NumPy), SQL
+- **Data Visualization:** Seaborn, Matplotlib, Tableau, PowerBI
 - **Statistical Analysis:** Hypothesis Testing, Regression, Time Series
 - **Machine Learning:** Scikit-Learn, XGBoost
-- **Database Management:** MySQL, Sqlite, PostgreSQL
-- **Data Cleaning:** Data Cleaning, Preprocessing
+- **Database Management:** MySQL, SQLite, PostgreSQL
+- **Tools:** Microsoft Excel, Jupyter Notebook
 - **Version Control:** Git, GitHub
 
-### Summary
-
-I excel in:
-- Transforming messy data into clean, structured datasets
-- Crafting compelling data visualizations and dashboards
-- Conducting statistical analysis and hypothesis testing
-- Building predictive models for actionable insights
-- Collaborating effectively with cross-functional teams
-
 ### Certifications
-
 - IBM Data Analyst Professional Graduate
 - Google Advanced Data Analytics Professional Certificate
 
