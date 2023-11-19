@@ -37,8 +37,8 @@ Feel free to reach out if you'd like to collaborate or discuss data-related proj
 
 ---
 
-### EnergiX Innovations (EI) - Optimising Employee Retention
-[Strategy Document](https://github.com/) | [Executive Summary](https://github.com/) | [Notebook](https://github.com/) 
+### EnergiX Innovations - Optimising Employee Retention
+[Project](https://github.com/c-qe/EnergiX-Innovations--Optimizing-Employee-Retention) | [Jupyter Notebook](https://github.com/) | [Strategy Document](https://github.com/) | [Executive Summary](https://github.com/) |
 
 **`EnergiX Innovations`**  - Developing a predictive model to anticipate employee departures by analyzing various attributes, aiming to uncover factors influencing attrition for proactive retention strategies.
 
