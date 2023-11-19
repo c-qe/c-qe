@@ -47,5 +47,16 @@ Feel free to reach out if you'd like to collaborate or discuss data-related proj
     <img alt="visitors" src="https://komarev.com/ghpvc/?username=c-qe7&style=flat&labelColor=red&logo=github&label=Profile+Views&color=58a6ff"/>
   </div>
 </footer>
+
+---
+
+### Advanced Energy (AE) - Optimising Employee Retention
+[Strategy Document](https://github.com/) | [Executive Summary](https://github.com/) | [Notebook](https://github.com/) 
+
+**`Advanced Energy`**  - Developing a predictive model to anticipate employee departures by analyzing various attributes, aiming to uncover factors influencing attrition for proactive retention strategies.
+
+
+---
+
     
 
