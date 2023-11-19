@@ -37,10 +37,10 @@ Feel free to reach out if you'd like to collaborate or discuss data-related proj
 
 ---
 
-### Advanced Energy (AE) - Optimising Employee Retention
+### EnergiX Innovations (EI) - Optimising Employee Retention
 [Strategy Document](https://github.com/) | [Executive Summary](https://github.com/) | [Notebook](https://github.com/) 
 
-**`Advanced Energy`**  - Developing a predictive model to anticipate employee departures by analyzing various attributes, aiming to uncover factors influencing attrition for proactive retention strategies.
+**`EnergiX Innovations`**  - Developing a predictive model to anticipate employee departures by analyzing various attributes, aiming to uncover factors influencing attrition for proactive retention strategies.
 
 
 ---
