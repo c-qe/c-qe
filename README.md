@@ -42,7 +42,7 @@
 ---
 
 ### EnergiX Innovations: Optimising Employee Retention
-[Repository](https://github.com/c-qe/EnergiX-Innovations--Optimizing-Employee-Retention) | [Jupyter Notebook](https://github.com/) | [Strategy Document](https://github.com/c-qe/EnergiX-Innovations--Optimizing-Employee-Retention/blob/afc8f26e651bc18c822cd9d5c5ee13319df60eb9/EnergiX%20Pace%20Strategy%20Document.pdf) | [Executive Summary](https://github.com/c-qe/EnergiX-Innovations--Optimizing-Employee-Retention/blob/afc8f26e651bc18c822cd9d5c5ee13319df60eb9/EnergiX%20Executive%20Summary.pdf) |
+[Repository](https://github.com/c-qe/EnergiX-Innovations--Optimizing-Employee-Retention) | [Jupyter Notebook](https://github.com/) | [Strategy Document](https://github.com/c-qe/EnergiX-Innovations--Optimizing-Employee-Retention/blob/b07654b6f31a3126e152838d90df9941dc16cc4c/EnergiX%20Pace%20Strategy%20Document.pdf) | [Executive Summary](https://github.com/c-qe/EnergiX-Innovations--Optimizing-Employee-Retention/blob/b07654b6f31a3126e152838d90df9941dc16cc4c/EnergiX%20Executive%20Summary.pdf) |
 
 **`EnergiX Innovations`**  - Developing a predictive model to anticipate employee departures by analyzing various attributes, aiming to uncover factors influencing attrition for proactive retention strategies.
 
