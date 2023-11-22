@@ -26,9 +26,6 @@
 - IBM Data Analyst Professional Graduate
 - Google Advanced Data Analytics Professional Certificate
 
-
-Feel free to reach out if you'd like to collaborate or discuss data-related projects. Let's connect and unlock the power of data together!
-
 <footer id='footer'>
   <div class='Visitor_Count' align='center'>
     <img alt="visitors" src="https://komarev.com/ghpvc/?username=c-qe7&style=flat&labelColor=red&logo=github&label=Profile+Views&color=58a6ff"/>
@@ -38,7 +35,7 @@ Feel free to reach out if you'd like to collaborate or discuss data-related proj
 ---
 
 ### EnergiX Innovations - Optimising Employee Retention
-[Project](https://github.com/c-qe/EnergiX-Innovations--Optimizing-Employee-Retention) | [Jupyter Notebook](https://github.com/) | [Strategy Document](https://github.com/) | [Executive Summary](https://github.com/) |
+[Repository](https://github.com/c-qe/EnergiX-Innovations--Optimizing-Employee-Retention) | [Jupyter Notebook](https://github.com/) | [Strategy Document](https://github.com/) | [Executive Summary](https://github.com/) |
 
 **`EnergiX Innovations`**  - Developing a predictive model to anticipate employee departures by analyzing various attributes, aiming to uncover factors influencing attrition for proactive retention strategies.
 
