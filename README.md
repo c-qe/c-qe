@@ -1,16 +1,4 @@
 
-<div class='header'>
-  <div class='icons' align='center'>
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,r,mysql,sqlite,postgres,c,vim,git,github,html,css,js,cpp"/></a>
-  </div>
-</div>
-
-<body>
-  <div class='title' align='center'>
-   <h4>Data Analyst - Data Science Enthusiast - Problem Solver</h4> 
-  </div>
-</body>
-
 👋 Hello, I'm c-qe, a passionate Data Analyst with a keen interest in transforming complex datasets into actionable insights. I excel in leveraging Python, SQL, and R to clean and structure data, craft compelling visualizations, conduct statistical analysis, and build predictive models. My aim is to harness the power of data to inform strategic decisions and drive business success.
 
 ### Skills
