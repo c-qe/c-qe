@@ -1,24 +1,6 @@
 
 👋 Hello, I'm c-qe, a passionate Data Analyst with a keen interest in transforming complex datasets into actionable insights. I excel in leveraging Python, SQL, and R to clean and structure data, craft compelling visualizations, conduct statistical analysis, and build predictive models. My aim is to harness the power of data to inform strategic decisions and drive business success.
 
-### Skills
-- **Data Manipulation:** Python (Pandas, NumPy), SQL
-- **Data Visualization:** Seaborn, Matplotlib, Tableau, PowerBI
-- **Statistical Analysis:** Hypothesis Testing, Regression, Time Series
-- **Machine Learning:** Scikit-Learn, XGBoost
-- **Database Management:** MySQL, SQLite, PostgreSQL
-- **Tools:** Microsoft Excel, Jupyter Notebook
-- **Version Control:** Git, GitHub
-
-### Certifications
-- IBM Data Analyst Professional Graduate
-- Google Advanced Data Analytics Professional Certificate
-
-<footer id='footer'>
-  <div class='Visitor_Count' align='center'>
-    <img alt="visitors" src="https://komarev.com/ghpvc/?username=c-qe7&style=flat&labelColor=red&logo=github&label=Profile+Views&color=58a6ff"/>
-  </div>
-</footer>
 
 ---
 
@@ -29,6 +11,12 @@
 
 
 ---
+
+<footer id='footer'>
+  <div class='Visitor_Count' align='center'>
+    <img alt="visitors" src="https://komarev.com/ghpvc/?username=c-qe7&style=flat&labelColor=red&logo=github&label=Profile+Views&color=58a6ff"/>
+  </div>
+</footer>
 
     
 
