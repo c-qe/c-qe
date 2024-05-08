@@ -2,13 +2,7 @@
 👋 Hello, I'm c-qe, a passionate Data Analyst with a keen interest in transforming complex datasets into actionable insights. I excel in leveraging Python, SQL, and R to clean and structure data, craft compelling visualizations, conduct statistical analysis, and build predictive models. My aim is to harness the power of data to inform strategic decisions and drive business success.
 
 ---
-**`Pending Completion`**
-### Waze: Enhancing User Retention Strategies through SQL and Tableau Analysis
-[Repository](https://www.google.com) | [Original Dataset](https://www.google.com) | [SQL](https://www.google.com) | [Tableau Dashboard](https://www.google.com) | 
 
-**`Waze`**  - The aim of our project is to utilize SQL for data querying and Tableau for visualization to analyze user churn patterns in Waze. By understanding the factors influencing churn, we aim to provide actionable insights to Waze leadership to improve user retention strategies and foster business growth.
-
----
 **`95% Completed`**
 ### EnergiX Innovations: Optimising Employee Retention
 [Repository](https://github.com/c-qe/EnergiX-Innovations--Optimizing-Employee-Retention) | [Dataset](https://github.com/c-qe/EnergiX-Innovations--Optimizing-Employee-Retention/blob/a0de3596621997176f93c607868c731e0d512b96/HR_capstone_dataset.csv) | [Jupyter Notebook](https://github.com/c-qe/EnergiX-Innovations--Optimizing-Employee-Retention/blob/a0de3596621997176f93c607868c731e0d512b96/EnergiX--ML-Employee-Retention-Lab05.ipynb) | [Strategy Document](https://github.com/c-qe/EnergiX-Innovations--Optimizing-Employee-Retention/blob/b07654b6f31a3126e152838d90df9941dc16cc4c/EnergiX%20Pace%20Strategy%20Document.pdf) | [Executive Summary](https://github.com/c-qe/EnergiX-Innovations--Optimizing-Employee-Retention/blob/b07654b6f31a3126e152838d90df9941dc16cc4c/EnergiX%20Executive%20Summary.pdf) |
