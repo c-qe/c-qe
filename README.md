@@ -3,10 +3,10 @@
 
 ---
 **`Pending Completion`**
-### Waze: Driving Business Growth through Predictive Modeling
-[Repository](https://www.google.com) | [Dataset](https://www.google.com) | [Jupyter Notebook](https://www.google.com) | [Tableau Dashboard](https://www.google.com) | 
+### Waze: Enhancing User Retention Strategies through SQL and Tableau Analysis
+[Repository](https://www.google.com) | [Original Dataset](https://www.google.com) | [SQL](https://www.google.com) | [Tableau Dashboard](https://www.google.com) | 
 
-**`Waze`**  - The aim of this project is to develop a predictive analytics solution for Waze, which leverages machine learning techniques to accurately forecast user churn. By understanding the factors influencing churn and providing proactive recommendations, we aim to enhance user retention and ultimately contribute to the success of Waze's business.
+**`Waze`**  - The aim of our project is to utilize SQL for data querying and Tableau for visualization to analyze user churn patterns in Waze. By understanding the factors influencing churn, we aim to provide actionable insights to Waze leadership to improve user retention strategies and foster business growth.
 
 ---
 **`95% Completed`**
